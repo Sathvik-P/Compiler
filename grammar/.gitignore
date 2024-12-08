@@ -1,0 +1,8 @@
+SimpleIR.interp
+SimpleIRLexer.interp
+SimpleIRLexer.py
+SimpleIRLexer.tokens
+SimpleIRListener.py
+SimpleIRParser.py
+SimpleIR.tokens
+antlr-4.13.1-complete.jar
